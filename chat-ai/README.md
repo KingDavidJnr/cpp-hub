@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README documentation explaining how to use the Chat AI app implemented in C++ using the OpenAI API:
-
 # Chat AI App
 
 The Chat AI app is a simple console-based application that allows you to have conversations with an AI powered by the OpenAI API. You can enter messages, and the AI will provide responses based on the conversation history.
